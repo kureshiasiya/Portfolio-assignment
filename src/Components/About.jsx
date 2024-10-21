@@ -10,13 +10,13 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/cover img.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I’m Asiya, a student at Mumbai University with a passion for web development. I enjoy creating dynamic, user-friendly web applications and continuously learning new technologies.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,10 +33,10 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Problem Solver",
+  "Mobile Designer",
   "Mobile user interfaces",
-  "Graphic design",
+  "Focus Group Tester",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate web developer who loves creating innovative applications. I enjoy the process of transforming ideas into reality through code and am always eager to tackle new challenges. My journey in technology is driven by a fascination with how things work and a commitment to learning. I thrive in collaborative environments where I can share knowledge and grow alongside others. My goal is to make a positive impact through my work and continuously refine my skills in the ever-evolving tech landscape.";
 
 const About = () => {
   return (
