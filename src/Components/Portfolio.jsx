@@ -34,25 +34,25 @@ const projectList = [
     title: "Gif Quest 🎉",
     description:
       "A fun application where users can search for GIFs based on keywords using the Giphy API.",
-    url: "https://asiya-gif-search-app-1.netlify.app/", // Replace with the actual URL of your Gif Quest project
+    url: "https://asiya-gif-search-app-1.netlify.app/",
   },
   {
     title: "Melo-Mix 🎵",
     description:
       "A Spotify clone that allows users to listen to music and navigate through tracks seamlessly.",
-    url: "https://asiyaa-spotify-clone.netlify.app/", // Replace with the actual URL of your Melo-Mix project
+    url: "https://asiyaa-spotify-clone.netlify.app/",
   },
   {
     title: "To-Do List 📋",
     description:
       "A simple application for managing tasks where users can add, delete, and mark tasks as completed.",
-    url: "https://asiya-todo-list.netlify.app/", // Replace with the actual URL of your To-Do List project
+    url: "https://asiya-todo-list.netlify.app/",
   },
   {
     title: "CartSmart 🛒",
     description:
       "An e-commerce shopping cart application that allows users to browse products, add them to their cart, and view their total bill.",
-    url: "https://asiya-shopping-cart.netlify.app/", // Replace with the actual URL of your CartSmart project
+    url: "https://asiya-shopping-cart.netlify.app/",
   },
 ];
 
